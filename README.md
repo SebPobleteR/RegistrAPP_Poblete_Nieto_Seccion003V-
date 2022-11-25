@@ -5,7 +5,6 @@ Antes de Ejecutar Instalar los Siguientes Comandos En CMD
 1- npm install
 2- npm install --save @ionic/storage
 3- npm install --save @ionic/storage-angular
-
 4- npm install @capacitor/camera @capacitor/preferences @capacitor/filesystem
 5- npm install -g @ionic/cli native-run cordova-res
 6- npm install @capacitor/preferences
